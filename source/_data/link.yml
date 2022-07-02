@@ -1,0 +1,18 @@
+- class_name: 友情链接
+  class_desc: 在这里，你可以看到我们分享的优质创作者们的主页。如果你是创作者，您也可以提交您的页面到我们的网站上面来。
+  link_list:
+    - name: MSDNicrosoft
+      link: https://msdnicrosoft.cn/
+      avatar: https://assets.msdnicrosoft.cn/img/avatar.jpg
+      descr: 友情链接
+    - name: 耗子的博客儿
+      link: https://haoziyyds.top/
+      avatar: https://www.haoziyyds.top/img/haozi.png
+      descr: 骚0袁昊
+    - name: WWQ's Blog
+      link: https://blog.wewq.cc/
+      avatar: https://avatars.githubusercontent.com/u/77864650
+      descr: 友情链接
+
+
+ 
