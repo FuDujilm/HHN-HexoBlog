@@ -7,13 +7,13 @@ title: HHN's Blog
 subtitle: '和谐人类本质博客'
 description: '和谐人类本质博客'
 keywords: HHN's Blog
-author: OldCat.co
+author: HHNlab
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://blog.oldcat.co
+url: https://blog.hhnlab.cn
 permalink: :title.html
 permalink_defaults:
 pretty_urls:
