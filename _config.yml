@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: BA  
+theme: BA
 deploy:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,12 +105,7 @@ deploy:
   repo: https://github.com/FuDujilm/hhnnblog
   branch: main
 - type: baidu_url_submitter ## 百度提交链接的deploy#Admin
-admin:
-    name: oldcat
-    password: zxc123666
-    secret: HHN's Blog Command
-    expire: 60*1
-    # cors: http://localhost:3000
+#
 #Seo 
 sitemap:
 	path: sitemap.xml
