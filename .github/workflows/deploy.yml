@@ -1,5 +1,5 @@
 # 文件路径 .github/workflows/deployment.yml
-name: Deployment
+name: Deployments
 
 on:
   push:
