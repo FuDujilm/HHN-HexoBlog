@@ -3,7 +3,7 @@ name: Deployment
 
 on:
   push:
-    branches: [hexo] # only push events on source branch trigger deployment
+    branches: [master] # only push events on source branch trigger deployment
 
 jobs:
   hexo-deployment:
@@ -31,9 +31,9 @@ jobs:
         hexo g
     - name: Deploy to Github Pages
       env:
-        GIT_NAME: WillCAI2020
+        GIT_NAME: FuDuJlm
         GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-        REPO: github.com/WillCAI2020/WillCAI2020.github.io
+        REPO: https://github.com/FuDujilm/hhnnblog
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         cd ./public && git init && git add .
